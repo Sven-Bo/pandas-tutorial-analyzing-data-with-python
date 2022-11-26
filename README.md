@@ -3,8 +3,7 @@ Ready to learn pandas, the most powerful data analysis library in Python?   In t
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/RXEP1R_ZNrs/0.jpg)](https://youtu.be/RXEP1R_ZNrs)
 
 
 ## About Me
